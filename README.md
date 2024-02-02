@@ -1,12 +1,24 @@
-# Your Project Name
+# AirBnB Clone v3
 
 ## Introduction
 
-Brief introduction about your project.
+This project is an implementation of an AirBnB clone API using Flask, a web framework for Python. The API provides endpoints for managing various resources such as states, cities, amenities, users, places, reviews, and their relationships.
 
-## Installation
+## Setup
 
-To get started with the project, follow these steps:
+### Prerequisites
+
+- Python 3.x
+- Flask
+- Flask-CORS
+- Other dependencies (if any)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/AirBnB_clone_v3.git
 
 ### 1. Install Dependencies
 
