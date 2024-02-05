@@ -47,7 +47,7 @@ The API provides the following endpoints:
 - `/api/v1/reviews`: Manage reviews
 - `/api/v1/places_search`: Search for places based on specified criteria
 
-For detailed information on each endpoint, refer to the [API Documentation](API_DOCUMENTATION.md).
+Has information on each endpoint, refer to the [API Documentation](API_DOCUMENTATION.md).
 
 ## Implementation Details
 
